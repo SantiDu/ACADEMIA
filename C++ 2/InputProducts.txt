@@ -1,0 +1,8 @@
+901;Panasonic DVD Player;45;128.99
+3678;iPhone Battery;120;35.99
+784;Sony Camcoder;125;395.99
+1231;Samsung TV;0;298.99
+7734;Apple iPhone 8;1200;599.98
+2828;Oculus Quest 2;100;499.99
+4000;Nintendo Switch;600;299.99
+70;PlayStation 5;50;569.98
